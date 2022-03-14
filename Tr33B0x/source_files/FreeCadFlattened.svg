@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="260.1mm"
+   height="385.1mm"
+   viewBox="0 0 260.1 385.1"
+   version="1.1"
+   id="svg84"
+   sodipodi:docname="FreeCadFlattened.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs88" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="1001"
+     id="namedview86"
+     showgrid="false"
+     inkscape:zoom="0.45861257"
+     inkscape:cx="-65.359982"
+     inkscape:cy="766.61628"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg84" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 82.55,277.55 v 0 h 132 v 0 z"
+     id="Pad001_f0000" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 214.55,277.55 v 0 85 0 z"
+     id="Pad001_f0001" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 214.55,362.55 v 0 h -132 v 0 z"
+     id="Pad001_f0002" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 82.55,362.55 v 0 -85 0 z"
+     id="Pad001_f0003" />
+  <circle
+     id="circle6"
+     style="fill:none;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     r="1.5"
+     cy="-342.54999"
+     cx="199.55"
+     transform="scale(1,-1)" />
+  <circle
+     id="circle8"
+     style="fill:none;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     r="1.5"
+     cy="-342.54999"
+     cx="99.550003"
+     transform="scale(1,-1)" />
+  <circle
+     id="circle10"
+     style="fill:none;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     r="1.5"
+     cy="-297.54999"
+     cx="199.55"
+     transform="scale(1,-1)" />
+  <circle
+     id="circle12"
+     style="fill:none;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     r="1.5"
+     cy="-297.54999"
+     cx="99.550003"
+     transform="scale(1,-1)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 7.55,297.55 v 0 h 56 v 0 z"
+     id="Pad_f0000" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 63.55,297.55 v 0 85 0 z"
+     id="Pad_f0001" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 63.55,382.55 v 0 h -56 v 0 z"
+     id="Pad_f0002" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 7.55,382.55 v 0 -85 0 z"
+     id="Pad_f0003" />
+  <circle
+     id="circle25"
+     style="fill:none;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     r="1.375"
+     cy="-359.04999"
+     cx="60.049999"
+     transform="scale(1,-1)" />
+  <circle
+     id="circle27"
+     style="fill:none;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     r="1.375"
+     cy="-359.04999"
+     cx="11.05"
+     transform="scale(1,-1)" />
+  <circle
+     id="circle29"
+     style="fill:none;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     r="1.375"
+     cy="-301.04999"
+     cx="60.049999"
+     transform="scale(1,-1)" />
+  <circle
+     id="circle31"
+     style="fill:none;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     r="1.375"
+     cy="-301.04999"
+     cx="11.05"
+     transform="scale(1,-1)" />
+  <g
+     id="Sketch006"
+     transform="translate(7.550000,382.550000) scale(1,-1)">
+    <path
+       id="Sketch006_w0000"
+       d="M -5.0 0.0 L 250.0 0.0 L 250.0 380.0 L -5.0 380.0 L -5.0 0.0 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd " />
+    <path
+       id="Sketch006_w0001"
+       d="M 24.5 375.0 A 2 2 0 1 1 20.5 375L 20.5 374.03112887414915 A 4.5 4.5 0 1 1 24.5 374.031L 24.5 375.0 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd " />
+    <path
+       id="Sketch006_w0002"
+       d="M 224.5 375.0 A 2 2 0 1 1 220.5 375L 220.5 374.0311288741486 A 4.5 4.5 0 1 1 224.5 374.031L 224.5 375.0 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd " />
+    <title
+       id="title43">b'BodenplatteGrundriss'</title>
+  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 7.55,142.55 v 0 h 215 v 0 z"
+     id="Pad002_f0000" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 222.55,142.55 v 0 115 0 z"
+     id="Pad002_f0001" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 222.55,257.55 v 0 h -215 v 0 z"
+     id="Pad002_f0002" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 7.55,257.55 v 0 -115 0 z"
+     id="Pad002_f0003" />
+  <circle
+     id="circle50"
+     style="fill:none;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     r="2"
+     cy="-225.05"
+     cx="40.049999"
+     transform="scale(1,-1)" />
+  <circle
+     id="circle52"
+     style="fill:none;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     r="2"
+     cy="-225.05"
+     cx="190.05"
+     transform="scale(1,-1)" />
+  <circle
+     id="circle54"
+     style="fill:none;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     r="2"
+     cy="-175.05"
+     cx="190.05"
+     transform="scale(1,-1)" />
+  <circle
+     id="circle56"
+     style="fill:none;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     r="2"
+     cy="-175.05"
+     cx="40.049999"
+     transform="scale(1,-1)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 7.55,17.55 v 0 h 215 v 0 z"
+     id="Pad003_f0000" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 222.55,17.55 v 0 115 0 z"
+     id="Pad003_f0001" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 222.55,132.55 v 0 h -215 v 0 z"
+     id="Pad003_f0002" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 7.55,132.55 v 0 -115 0 z"
+     id="Pad003_f0003" />
+  <circle
+     id="circle71"
+     style="fill:none;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     r="2"
+     cy="-100.05"
+     cx="190.05"
+     transform="scale(1,-1)" />
+  <circle
+     id="circle73"
+     style="fill:none;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     r="2"
+     cy="-50.049999"
+     cx="190.05"
+     transform="scale(1,-1)" />
+  <circle
+     id="circle75"
+     style="fill:none;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     r="2"
+     cy="-50.049999"
+     cx="40.049999"
+     transform="scale(1,-1)" />
+  <circle
+     id="circle79"
+     style="fill:none;stroke:#191919;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+     r="2"
+     cy="-100.05"
+     cx="40.049999"
+     transform="scale(1,-1)" />
+</svg>

@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="260.1mm" height="385.1mm" viewBox="0 0 260.1 385.1" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Pad004" transform="translate(7.550000,382.550000) scale(1,-1)">
+<path id="Pad004_f0000"  d="M -5.0 0.0 L -5.0 0.0 L 250.0 0.0 L 250.0 0.0 L -5.0 0.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad004_f0001"  d="M 250.0 0.0 L 250.0 0.0 L 250.0 380.0 L 250.0 380.0 L 250.0 0.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad004_f0002"  d="M 250.0 380.0 L 250.0 380.0 L -5.0 380.0 L -5.0 380.0 L 250.0 380.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad004_f0003"  d="M -5.0 380.0 L -5.0 380.0 L -5.0 0.0 L -5.0 0.0 L -5.0 380.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad004_f0004"  d="M 224.5 375.0 L 224.5 375.0 L 224.5 374.0311288741486 L 224.5 374.0311288741486 L 224.5 375.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad004_f0005"  d="M 224.5 374.0311288741486 A 4.5 4.5 0 1 0 220.5 374.031L 220.5 374.0311288741486 A 4.5 4.5 0 1 1 224.5 374.031L 224.5 374.0311288741486 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad004_f0006"  d="M 220.5 374.0311288741486 L 220.5 375.0 L 220.5 375.0 L 220.5 374.0311288741486 L 220.5 374.0311288741486 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad004_f0007"  d="M 220.5 375.0 A 2 2 0 1 0 224.5 375L 224.5 375.0 A 2 2 0 1 1 220.5 375L 220.5 375.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad004_f0008"  d="M 24.5 375.0 L 24.5 375.0 L 24.5 374.03112887414915 L 24.5 374.03112887414915 L 24.5 375.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad004_f0009"  d="M 24.5 374.03112887414915 A 4.5 4.5 0 1 0 20.5 374.031L 20.5 374.03112887414915 A 4.5 4.5 0 1 1 24.5 374.031L 24.5 374.03112887414915 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad004_f0010"  d="M 20.5 374.03112887414915 L 20.5 375.0 L 20.5 375.0 L 20.5 374.03112887414915 L 20.5 374.03112887414915 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad004_f0011"  d="M 20.5 375.0 A 2 2 0 1 0 24.5 375L 24.5 375.0 A 2 2 0 1 1 20.5 375L 20.5 375.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad004_f0012"  d="M -5.0 0.0 L 250.0 0.0 L 250.0 380.0 L -5.0 380.0 L -5.0 0.0 Z M 224.5 375.0 L 224.5 374.0311288741486 A 4.5 4.5 0 1 0 220.5 374.031L 220.5 375.0 A 2 2 0 1 0 224.5 375Z M 24.5 375.0 L 24.5 374.03112887414915 A 4.5 4.5 0 1 0 20.5 374.031L 20.5 375.0 A 2 2 0 1 0 24.5 375Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad004_f0013"  d="M 250.0 0.0 L 250.0 380.0 L -5.0 380.0 L -5.0 0.0 L 250.0 0.0 Z M 224.5 375.0 A 2 2 0 1 1 220.5 375L 220.5 374.0311288741486 A 4.5 4.5 0 1 1 224.5 374.031L 224.5 375.0 Z M 24.5 375.0 A 2 2 0 1 1 20.5 375L 20.5 374.03112887414915 A 4.5 4.5 0 1 1 24.5 374.031L 24.5 375.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<title>b'Pad004'</title>
+</g>
+<g id="Origin003" transform="translate(7.550000,382.550000) scale(1,-1)">
+<title>b'Origin003'</title>
+</g>
+<g id="Body002" transform="translate(7.550000,382.550000) scale(1,-1)">
+<path id="Body002_f0000"  d="M 0.0 240.0 L 0.0 240.0 L 215.0 240.0 L 215.0 240.0 L 0.0 240.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body002_f0001"  d="M 0.0 125.0 L 0.0 125.0 L 0.0 240.0 L 0.0 240.0 L 0.0 125.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body002_f0002"  d="M 215.0 240.0 L 215.0 240.0 L 215.0 125.0 L 215.0 125.0 L 215.0 240.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<circle cx="32.5" cy="157.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<path id="Body002_f0005"  d="M 215.0 125.0 L 215.0 125.0 L 0.0 125.0 L 0.0 125.0 L 215.0 125.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<circle cx="32.5" cy="157.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="182.5" cy="157.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="182.5" cy="207.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="32.5" cy="207.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="47.45" cy="161.7" r="25.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<path id="Body002_f0011"  d="M 181.0 137.0 L 181.0 156.1771243444677 L 181.0 156.1771243444677 L 181.0 137.0 L 181.0 137.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body002_f0012"  d="M 181.0 137.0 L 181.0 137.0 L 153.0 137.0 L 153.0 137.0 L 181.0 137.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body002_f0013"  d="M 153.0 137.0 L 153.0 137.0 L 153.0 230.0 L 153.0 230.0 L 153.0 137.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body002_f0014"  d="M 153.0 230.0 L 153.0 230.0 L 181.0 230.0 L 181.0 230.0 L 153.0 230.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body002_f0015"  d="M 181.0 208.8228756555323 L 181.0 230.0 L 181.0 230.0 L 181.0 208.82287565553233 L 181.0 208.8228756555323 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body002_f0016"  d="M 181.0 158.8228756555323 L 181.0 206.1771243444677 L 181.0 206.1771243444677 L 181.0 158.82287565553233 L 181.0 158.8228756555323 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<circle cx="47.45" cy="161.7" r="25.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<path id="Body002_f0018"  d="M 181.0 208.8228756555323 A 2 2 0 0 1 181 206.177L 181.0 158.8228756555323 A 2 2 0 0 1 181 156.177L 181.0 137.0 L 153.0 137.0 L 153.0 230.0 L 181.0 230.0 L 181.0 208.8228756555323 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<title>b'MW LRS-350-5 A'</title>
+</g>
+<g id="Body001" transform="translate(7.550000,382.550000) scale(1,-1)">
+<path id="Body001_f0000"  d="M 75.0 105.0 L 75.0 105.0 L 207.0 105.0 L 207.0 105.0 L 75.0 105.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body001_f0001"  d="M 207.0 105.0 L 207.0 105.0 L 207.0 20.0 L 207.0 20.0 L 207.0 105.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body001_f0002"  d="M 207.0 20.0 L 207.0 20.0 L 75.0 20.0 L 75.0 20.0 L 207.0 20.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body001_f0003"  d="M 75.0 20.0 L 75.0 20.0 L 75.0 105.0 L 75.0 105.0 L 75.0 20.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<circle cx="192.0" cy="39.99999999999999" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="92.0" cy="39.99999999999999" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="192.0" cy="85.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="92.0" cy="85.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="192.0" cy="39.99999999999999" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="192.0" cy="39.99999999999999" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<title>b'DriverBoard'</title>
+</g>
+<g id="Body004" transform="translate(7.550000,382.550000) scale(1,-1)">
+<path id="Body004_f0000"  d="M -5.0 0.0 L -5.0 0.0 L 250.0 0.0 L 250.0 0.0 L -5.0 0.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body004_f0001"  d="M 250.0 0.0 L 250.0 0.0 L 250.0 380.0 L 250.0 380.0 L 250.0 0.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body004_f0002"  d="M 250.0 380.0 L 250.0 380.0 L -5.0 380.0 L -5.0 380.0 L 250.0 380.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body004_f0003"  d="M -5.0 380.0 L -5.0 380.0 L -5.0 0.0 L -5.0 0.0 L -5.0 380.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body004_f0004"  d="M 224.5 375.0 L 224.5 375.0 L 224.5 374.0311288741486 L 224.5 374.0311288741486 L 224.5 375.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body004_f0005"  d="M 224.5 374.0311288741486 A 4.5 4.5 0 1 0 220.5 374.031L 220.5 374.0311288741486 A 4.5 4.5 0 1 1 224.5 374.031L 224.5 374.0311288741486 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body004_f0006"  d="M 220.5 374.0311288741486 L 220.5 375.0 L 220.5 375.0 L 220.5 374.0311288741486 L 220.5 374.0311288741486 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body004_f0007"  d="M 220.5 375.0 A 2 2 0 1 0 224.5 375L 224.5 375.0 A 2 2 0 1 1 220.5 375L 220.5 375.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body004_f0008"  d="M 24.5 375.0 L 24.5 375.0 L 24.5 374.03112887414915 L 24.5 374.03112887414915 L 24.5 375.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body004_f0009"  d="M 24.5 374.03112887414915 A 4.5 4.5 0 1 0 20.5 374.031L 20.5 374.03112887414915 A 4.5 4.5 0 1 1 24.5 374.031L 24.5 374.03112887414915 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body004_f0010"  d="M 20.5 374.03112887414915 L 20.5 375.0 L 20.5 375.0 L 20.5 374.03112887414915 L 20.5 374.03112887414915 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body004_f0011"  d="M 20.5 375.0 A 2 2 0 1 0 24.5 375L 24.5 375.0 A 2 2 0 1 1 20.5 375L 20.5 375.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body004_f0012"  d="M -5.0 0.0 L 250.0 0.0 L 250.0 380.0 L -5.0 380.0 L -5.0 0.0 Z M 224.5 375.0 L 224.5 374.0311288741486 A 4.5 4.5 0 1 0 220.5 374.031L 220.5 375.0 A 2 2 0 1 0 224.5 375Z M 24.5 375.0 L 24.5 374.03112887414915 A 4.5 4.5 0 1 0 20.5 374.031L 20.5 375.0 A 2 2 0 1 0 24.5 375Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body004_f0013"  d="M 250.0 0.0 L 250.0 380.0 L -5.0 380.0 L -5.0 0.0 L 250.0 0.0 Z M 224.5 375.0 A 2 2 0 1 1 220.5 375L 220.5 374.0311288741486 A 4.5 4.5 0 1 1 224.5 374.031L 224.5 375.0 Z M 24.5 375.0 A 2 2 0 1 1 20.5 375L 20.5 374.03112887414915 A 4.5 4.5 0 1 1 24.5 374.031L 24.5 375.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<title>b'Bodenplatte'</title>
+</g>
+<g id="Body003" transform="translate(7.550000,382.550000) scale(1,-1)">
+<path id="Body003_f0000"  d="M 0.0 365.0 L 0.0 365.0 L 215.0 365.0 L 215.0 365.0 L 0.0 365.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body003_f0001"  d="M 0.0 250.0 L 0.0 250.0 L 0.0 365.0 L 0.0 365.0 L 0.0 250.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body003_f0002"  d="M 215.0 365.0 L 215.0 365.0 L 215.0 250.0 L 215.0 250.0 L 215.0 365.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<circle cx="32.5" cy="282.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<path id="Body003_f0005"  d="M 215.0 250.0 L 215.0 250.0 L 0.0 250.0 L 0.0 250.0 L 215.0 250.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<circle cx="32.5" cy="282.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="182.5" cy="282.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="182.5" cy="332.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="32.5" cy="332.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="47.45" cy="286.7" r="25.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<path id="Body003_f0011"  d="M 181.0 262.0 L 181.0 281.1771243444677 L 181.0 281.1771243444677 L 181.0 262.0 L 181.0 262.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body003_f0012"  d="M 181.0 262.0 L 181.0 262.0 L 153.0 262.0 L 153.0 262.0 L 181.0 262.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body003_f0013"  d="M 153.0 262.0 L 153.0 262.0 L 153.0 355.0 L 153.0 355.0 L 153.0 262.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body003_f0014"  d="M 153.0 355.0 L 153.0 355.0 L 181.0 355.0 L 181.0 355.0 L 153.0 355.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body003_f0015"  d="M 181.0 333.8228756555323 L 181.0 355.0 L 181.0 355.0 L 181.0 333.8228756555323 L 181.0 333.8228756555323 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Body003_f0016"  d="M 181.0 283.8228756555323 L 181.0 331.1771243444677 L 181.0 331.1771243444677 L 181.0 283.8228756555323 L 181.0 283.8228756555323 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<circle cx="47.45" cy="286.7" r="25.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<path id="Body003_f0018"  d="M 181.0 333.8228756555323 A 2 2 0 0 1 181 331.177L 181.0 283.8228756555323 A 2 2 0 0 1 181 281.177L 181.0 262.0 L 153.0 262.0 L 153.0 355.0 L 181.0 355.0 L 181.0 333.8228756555323 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<title>b'MW LRS-350-5 B'</title>
+</g>
+<g id="Origin002" transform="translate(7.550000,382.550000) scale(1,-1)">
+<title>b'Origin002'</title>
+</g>
+<g id="Origin001" transform="translate(7.550000,382.550000) scale(1,-1)">
+<title>b'Origin001'</title>
+</g>
+<g id="Origin004" transform="translate(7.550000,382.550000) scale(1,-1)">
+<title>b'Origin004'</title>
+</g>
+<g id="Sketch" transform="translate(7.550000,382.550000) scale(1,-1)">
+<path id="Sketch_w0000"  d="M 0.0 85.0 L 56.0 85.0 L 56.0 0.0 L 0.0 0.0 L 0.0 85.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="3.5" cy="81.5" r="1.375" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="52.5" cy="81.5" r="1.375" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="3.5" cy="23.500000000000007" r="1.375" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="52.5" cy="23.500000000000007" r="1.375" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Sketch'</title>
+</g>
+<g id="Pad" transform="translate(7.550000,382.550000) scale(1,-1)">
+<path id="Pad_f0000"  d="M 0.0 85.0 L 0.0 85.0 L 56.0 85.0 L 56.0 85.0 L 0.0 85.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad_f0001"  d="M 56.0 85.0 L 56.0 85.0 L 56.0 0.0 L 56.0 0.0 L 56.0 85.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad_f0002"  d="M 56.0 0.0 L 56.0 0.0 L 0.0 0.0 L 0.0 0.0 L 56.0 0.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad_f0003"  d="M 0.0 0.0 L 0.0 0.0 L 0.0 85.0 L 0.0 85.0 L 0.0 0.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<circle cx="52.5" cy="23.500000000000007" r="1.375" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="3.5" cy="23.500000000000007" r="1.375" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="52.5" cy="81.5" r="1.375" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="3.5" cy="81.5" r="1.375" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="52.5" cy="23.500000000000007" r="1.375" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="52.5" cy="23.500000000000007" r="1.375" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<title>b'Pad'</title>
+</g>
+<g id="Sketch001" transform="translate(7.550000,382.550000) scale(1,-1)">
+<path id="Sketch001_w0000"  d="M 75.0 105.0 L 207.0 105.0 L 207.0 20.0 L 75.0 20.0 L 75.0 105.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="92.0" cy="85.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="192.0" cy="85.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="92.0" cy="39.99999999999999" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="192.0" cy="39.99999999999999" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Sketch001'</title>
+</g>
+<g id="Pad001" transform="translate(7.550000,382.550000) scale(1,-1)">
+<path id="Pad001_f0000"  d="M 75.0 105.0 L 75.0 105.0 L 207.0 105.0 L 207.0 105.0 L 75.0 105.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad001_f0001"  d="M 207.0 105.0 L 207.0 105.0 L 207.0 20.0 L 207.0 20.0 L 207.0 105.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad001_f0002"  d="M 207.0 20.0 L 207.0 20.0 L 75.0 20.0 L 75.0 20.0 L 207.0 20.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad001_f0003"  d="M 75.0 20.0 L 75.0 20.0 L 75.0 105.0 L 75.0 105.0 L 75.0 20.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<circle cx="192.0" cy="39.99999999999999" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="92.0" cy="39.99999999999999" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="192.0" cy="85.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="92.0" cy="85.0" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="192.0" cy="39.99999999999999" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="192.0" cy="39.99999999999999" r="1.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<title>b'Pad001'</title>
+</g>
+<g id="Sketch002" transform="translate(7.550000,382.550000) scale(1,-1)">
+<path id="Sketch002_w0000"  d="M 0.0 240.0 L 215.0 240.0 L 215.0 125.0 L 0.0 125.0 L 0.0 240.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="32.5" cy="207.5" r="2.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="182.5" cy="207.5" r="2.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="182.5" cy="157.5" r="2.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="32.5" cy="157.5" r="2.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'NetzteilGrundriss'</title>
+</g>
+<g id="Pad002" transform="translate(7.550000,382.550000) scale(1,-1)">
+<path id="Pad002_f0000"  d="M 0.0 240.0 L 0.0 240.0 L 215.0 240.0 L 215.0 240.0 L 0.0 240.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad002_f0001"  d="M 215.0 240.0 L 215.0 240.0 L 215.0 125.0 L 215.0 125.0 L 215.0 240.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad002_f0002"  d="M 215.0 125.0 L 215.0 125.0 L 0.0 125.0 L 0.0 125.0 L 215.0 125.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad002_f0003"  d="M 0.0 125.0 L 0.0 125.0 L 0.0 240.0 L 0.0 240.0 L 0.0 125.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<circle cx="32.5" cy="157.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="182.5" cy="157.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="182.5" cy="207.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="32.5" cy="207.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="32.5" cy="157.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="32.5" cy="157.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<title>b'NetzteilKoerper'</title>
+</g>
+<g id="Sketch003" transform="translate(7.550000,382.550000) scale(1,-1)">
+<circle cx="47.45" cy="161.7" r="25.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Sketch003_w0001"  d="M 153.0 230.0 L 181.0 230.0 L 181.0 137.0 L 153.0 137.0 L 153.0 230.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>b'Luefter'</title>
+</g>
+<g id="Pocket" transform="translate(7.550000,382.550000) scale(1,-1)">
+<path id="Pocket_f0000"  d="M 0.0 240.0 L 0.0 240.0 L 215.0 240.0 L 215.0 240.0 L 0.0 240.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pocket_f0001"  d="M 0.0 125.0 L 0.0 125.0 L 0.0 240.0 L 0.0 240.0 L 0.0 125.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pocket_f0002"  d="M 215.0 240.0 L 215.0 240.0 L 215.0 125.0 L 215.0 125.0 L 215.0 240.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<circle cx="32.5" cy="157.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<path id="Pocket_f0005"  d="M 215.0 125.0 L 215.0 125.0 L 0.0 125.0 L 0.0 125.0 L 215.0 125.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<circle cx="32.5" cy="157.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="182.5" cy="157.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="182.5" cy="207.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="32.5" cy="207.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="47.45" cy="161.7" r="25.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<path id="Pocket_f0011"  d="M 181.0 137.0 L 181.0 156.1771243444677 L 181.0 156.1771243444677 L 181.0 137.0 L 181.0 137.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pocket_f0012"  d="M 181.0 137.0 L 181.0 137.0 L 153.0 137.0 L 153.0 137.0 L 181.0 137.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pocket_f0013"  d="M 153.0 137.0 L 153.0 137.0 L 153.0 230.0 L 153.0 230.0 L 153.0 137.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pocket_f0014"  d="M 153.0 230.0 L 153.0 230.0 L 181.0 230.0 L 181.0 230.0 L 153.0 230.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pocket_f0015"  d="M 181.0 208.8228756555323 L 181.0 230.0 L 181.0 230.0 L 181.0 208.82287565553233 L 181.0 208.8228756555323 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pocket_f0016"  d="M 181.0 158.8228756555323 L 181.0 206.1771243444677 L 181.0 206.1771243444677 L 181.0 158.82287565553233 L 181.0 158.8228756555323 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<circle cx="47.45" cy="161.7" r="25.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<path id="Pocket_f0018"  d="M 181.0 208.8228756555323 A 2 2 0 0 1 181 206.177L 181.0 158.8228756555323 A 2 2 0 0 1 181 156.177L 181.0 137.0 L 153.0 137.0 L 153.0 230.0 L 181.0 230.0 L 181.0 208.8228756555323 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<title>b'Luefter001'</title>
+</g>
+<g id="Pad003" transform="translate(7.550000,382.550000) scale(1,-1)">
+<path id="Pad003_f0000"  d="M 0.0 365.0 L 0.0 365.0 L 215.0 365.0 L 215.0 365.0 L 0.0 365.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad003_f0001"  d="M 215.0 365.0 L 215.0 365.0 L 215.0 250.0 L 215.0 250.0 L 215.0 365.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad003_f0002"  d="M 215.0 250.0 L 215.0 250.0 L 0.0 250.0 L 0.0 250.0 L 215.0 250.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pad003_f0003"  d="M 0.0 250.0 L 0.0 250.0 L 0.0 365.0 L 0.0 365.0 L 0.0 250.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<circle cx="32.5" cy="282.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="182.5" cy="282.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="182.5" cy="332.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="32.5" cy="332.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="32.5" cy="282.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="32.5" cy="282.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<title>b'NetzteilKoerper001'</title>
+</g>
+<g id="Sketch004" transform="translate(7.550000,382.550000) scale(1,-1)">
+<path id="Sketch004_w0000"  d="M 0.0 365.0 L 215.0 365.0 L 215.0 250.0 L 0.0 250.0 L 0.0 365.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="32.5" cy="332.5" r="2.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="182.5" cy="332.5" r="2.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="182.5" cy="282.5" r="2.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="32.5" cy="282.5" r="2.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'NetzteilGrundriss001'</title>
+</g>
+<g id="Sketch005" transform="translate(7.550000,382.550000) scale(1,-1)">
+<circle cx="47.45" cy="286.7" r="25.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Sketch005_w0001"  d="M 153.0 355.0 L 181.0 355.0 L 181.0 262.0 L 153.0 262.0 L 153.0 355.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>b'Luefter003'</title>
+</g>
+<g id="Pocket001" transform="translate(7.550000,382.550000) scale(1,-1)">
+<path id="Pocket001_f0000"  d="M 0.0 365.0 L 0.0 365.0 L 215.0 365.0 L 215.0 365.0 L 0.0 365.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pocket001_f0001"  d="M 0.0 250.0 L 0.0 250.0 L 0.0 365.0 L 0.0 365.0 L 0.0 250.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pocket001_f0002"  d="M 215.0 365.0 L 215.0 365.0 L 215.0 250.0 L 215.0 250.0 L 215.0 365.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<circle cx="32.5" cy="282.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<path id="Pocket001_f0005"  d="M 215.0 250.0 L 215.0 250.0 L 0.0 250.0 L 0.0 250.0 L 215.0 250.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<circle cx="32.5" cy="282.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="182.5" cy="282.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="182.5" cy="332.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="32.5" cy="332.5" r="2.0" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<circle cx="47.45" cy="286.7" r="25.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<path id="Pocket001_f0011"  d="M 181.0 262.0 L 181.0 281.1771243444677 L 181.0 281.1771243444677 L 181.0 262.0 L 181.0 262.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pocket001_f0012"  d="M 181.0 262.0 L 181.0 262.0 L 153.0 262.0 L 153.0 262.0 L 181.0 262.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pocket001_f0013"  d="M 153.0 262.0 L 153.0 262.0 L 153.0 355.0 L 153.0 355.0 L 153.0 262.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pocket001_f0014"  d="M 153.0 355.0 L 153.0 355.0 L 181.0 355.0 L 181.0 355.0 L 153.0 355.0 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pocket001_f0015"  d="M 181.0 333.8228756555323 L 181.0 355.0 L 181.0 355.0 L 181.0 333.8228756555323 L 181.0 333.8228756555323 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="Pocket001_f0016"  d="M 181.0 283.8228756555323 L 181.0 331.1771243444677 L 181.0 331.1771243444677 L 181.0 283.8228756555323 L 181.0 283.8228756555323 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<circle cx="47.45" cy="286.7" r="25.5" stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc"/>
+<path id="Pocket001_f0018"  d="M 181.0 333.8228756555323 A 2 2 0 0 1 181 331.177L 181.0 283.8228756555323 A 2 2 0 0 1 181 281.177L 181.0 262.0 L 153.0 262.0 L 153.0 355.0 L 181.0 355.0 L 181.0 333.8228756555323 Z " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<title>b'Luefter002'</title>
+</g>
+</svg>
